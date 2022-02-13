@@ -31,7 +31,7 @@
   "bugs": {
     "url": "https://github.com/ArcheSpace/create-arche-app/issues"
   },
-  "homepage": "https://github.com/arche-engine/create-arche-app#readme",
+  "homepage": "https://github.com/ArcheSpace/create-arche-app#readme",
   "publishConfig": {
     "access": "public"
   },

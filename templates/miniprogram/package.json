@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "@arche-engine/miniprogram-adapter": "^0.0.2",
-    "arche-engine": "^0.6"
+    "arche-engine": "^0.0.1"
   }
 }

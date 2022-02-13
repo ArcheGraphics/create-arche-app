@@ -26,6 +26,6 @@
     "vite": "^2.3.8"
   },
   "dependencies": {
-    "arche-engine": "^0.6"
+    "arche-engine": "^0.0.1"
   }
 }
