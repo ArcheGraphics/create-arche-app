@@ -25,10 +25,8 @@ engine.init().then(() => {
     const renderer = cubeEntity.addComponent(MeshRenderer);
     const mtl = new BlinnPhongMaterial(engine);
     const color = mtl.baseColor;
-    color.r = 0.0;
-    color.g = 0.8;
-    color.b = 0.5;
-    color.a = 1.0;
+    color.setValue(0.0, 0.8, 0.5, 1.0);
+    mtl.baseColor = color;
     renderer.mesh = PrimitiveMesh.createCuboid(engine);
     renderer.setMaterial(mtl);
 
