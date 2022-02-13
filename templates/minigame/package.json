@@ -1,0 +1,16 @@
+{
+  "name": "arche-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite build -w",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2"
+  },
+  "dependencies": {
+    "@arche-engine/controls": "^0.6",
+    "arche-engine": "^0.6"
+  }
+}

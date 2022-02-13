@@ -1,0 +1,4 @@
+node_modules
+./mini/dist/arche-app.umd.js
+yarn.lock
+yarn-error.log
