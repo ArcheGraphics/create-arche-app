@@ -10,7 +10,7 @@
     "vite": "^2"
   },
   "dependencies": {
-    "@arche-engine/controls": "^0.02",
-    "arche-engine": "^0.0.2"
+    "@arche-engine/controls": "^0.03",
+    "arche-engine": "^0.0.3"
   }
 }
