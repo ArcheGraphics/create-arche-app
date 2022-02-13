@@ -24,9 +24,6 @@
   "keywords": [
     "arche"
   ],
-  "authors": [
-    "husong <gz65555@gmail.com> (https://github.com/gz65555)"
-  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ArcheSpace/create-arche-app/issues"
