@@ -10,6 +10,6 @@
     "vite": "^2"
   },
   "dependencies": {
-    "arche-engine": "^0.0.3"
+    "arche-engine": "^0.0.4"
   }
 }
